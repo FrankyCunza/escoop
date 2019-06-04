@@ -1,0 +1,32 @@
+.l-container{
+	box-shadow: 0px 0px 30px rgba(0, 0, 0, .08);
+	width: 100%;
+	padding: 1px;
+	box-sizing:border-box;
+	max-width:1400px;
+	margin-left:auto;
+	position: relative;
+	margin-right:auto;
+	}
+/*.l-container:nth-child(2){
+	padding: 0px;
+	box-shadow: 1px 1px 10px rgba(0, 0, 0, 0);
+}*/
+	
+.l-row{
+	clear:both;
+	overflow:hidden;
+	}
+.l-col100{
+	width:100%;
+	float:left;
+	}
+.l-col50{
+	width:50%;
+	float:left;
+	}
+.l-col33{
+	width:33.33%;
+	float:left;
+	}
+	
